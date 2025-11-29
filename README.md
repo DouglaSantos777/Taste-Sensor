@@ -33,8 +33,10 @@ source .venv/bin/activate
 
 #### Windows
 
+```bash
 python -m venv .venv
 .venv\Scripts\activate
+```
 
 ### Passo 2: Instalação das Bibliotecas
 
