@@ -45,8 +45,19 @@ Com o ambiente virtual ativado, instale todas as dependências do projeto listad
 ```bash
 pip install -r requirements.txt
 ```
+### Passo 3: Instalação das Bibliotecas
 
-### Passo 3: Execução do Sistema
+É necessário gerar o modelo localmente dos arquivos .pkl.
+
+Acesse o Notebook: https://colab.research.google.com/drive/1t4ToAA_H3ZzTslXRw5ZtX7WMx8q6Z1pB?usp=sharing
+
+Rode as células do Notebook .
+
+Após a execução, os arquivos movies_data.pkl e movies_similarity.pkl serão gerados na sessão do Colab.
+
+Baixe esses dois arquivos e coloque-os no diretório raiz deste projeto (main.py).
+
+### Passo 4: Execução do Sistema
 
 ```bash
 python main.py
