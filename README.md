@@ -49,6 +49,8 @@ pip install -r requirements.txt
 
 É necessário gerar o modelo localmente dos arquivos .pkl.
 
+Baixe o dataset.csv dos arquivos desse repositório e coloque-o no notebook.
+
 Acesse o Notebook: https://colab.research.google.com/drive/1t4ToAA_H3ZzTslXRw5ZtX7WMx8q6Z1pB?usp=sharing
 
 Rode as células do Notebook .
